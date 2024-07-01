@@ -7,7 +7,7 @@ namespace Composite.examp1
 		{
 		}
 
-		public static void Main(String[] args)
+		public static void Main(string[] args)
 		{
             ProductCatalog items = new ProductCatalog("Ürünler");
 
