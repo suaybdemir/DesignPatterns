@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehaviouralPatterns", "BehaviouralPatterns\BehaviouralPatterns.csproj", "{11310CFC-AE14-4060-A2CE-9B343B5BB6F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{39B479B0-F66B-4FBE-9FD4-6FB97F656BE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11310CFC-AE14-4060-A2CE-9B343B5BB6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11310CFC-AE14-4060-A2CE-9B343B5BB6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11310CFC-AE14-4060-A2CE-9B343B5BB6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11310CFC-AE14-4060-A2CE-9B343B5BB6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39B479B0-F66B-4FBE-9FD4-6FB97F656BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B479B0-F66B-4FBE-9FD4-6FB97F656BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B479B0-F66B-4FBE-9FD4-6FB97F656BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B479B0-F66B-4FBE-9FD4-6FB97F656BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {676BAF6E-503F-495F-A186-19279965EB7E}
+	EndGlobalSection
+EndGlobal
