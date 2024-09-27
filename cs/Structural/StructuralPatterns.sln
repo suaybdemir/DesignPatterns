@@ -1,17 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 25.0.1706.12
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter1", "Adapter\Adapter1.csproj", "{6AC651CC-1676-44C1-B77F-BA78E61E417A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter1", "Adapter\Adapter1.csproj", "{6AC651CC-1676-44C1-B77F-BA78E61E417A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite1", "Composite\Composite1.csproj", "{CBD02C6C-88B8-4FEB-9072-58AFA800D967}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite1", "Composite\Composite1.csproj", "{CBD02C6C-88B8-4FEB-9072-58AFA800D967}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator1", "Decorator1\Decorator1.csproj", "{1F776690-48BD-4F7D-AF04-D9FF186ABEF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator1", "Decorator1\Decorator1.csproj", "{1F776690-48BD-4F7D-AF04-D9FF186ABEF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "facade1", "facade1\facade1.csproj", "{7D5A7D36-EF00-4774-91A0-90AAA73D2925}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "facade1", "facade1\facade1.csproj", "{7D5A7D36-EF00-4774-91A0-90AAA73D2925}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flyweight1", "Flyweight\Flyweight1.csproj", "{0823D304-2933-4D52-953A-245E2CEC79EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flyweight1", "Flyweight\Flyweight1.csproj", "{0823D304-2933-4D52-953A-245E2CEC79EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePatternDemo1", "BridgePatternDemo1\BridgePatternDemo1.csproj", "{4E534624-5D01-489E-979D-31BD9F0D880E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{0823D304-2933-4D52-953A-245E2CEC79EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0823D304-2933-4D52-953A-245E2CEC79EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0823D304-2933-4D52-953A-245E2CEC79EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E534624-5D01-489E-979D-31BD9F0D880E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E534624-5D01-489E-979D-31BD9F0D880E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E534624-5D01-489E-979D-31BD9F0D880E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E534624-5D01-489E-979D-31BD9F0D880E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
